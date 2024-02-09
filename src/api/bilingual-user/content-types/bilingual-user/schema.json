@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "bilingual_users",
+  "info": {
+    "singularName": "bilingual-user",
+    "pluralName": "bilingual-users",
+    "displayName": "bilingual users"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
